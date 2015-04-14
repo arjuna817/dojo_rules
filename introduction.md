@@ -8,3 +8,4 @@
 * Ruby
 * Ror
 * Html/css
+"Killing history using git rebase
